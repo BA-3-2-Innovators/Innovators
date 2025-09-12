@@ -17,3 +17,6 @@ PyAudio==0.2.13  # May require specific installation steps depending on OS
 Notebook Environment
 jupyter==1.0.0
 notebook==6.5.4
+
+
+thavha
