@@ -9,6 +9,10 @@ opencv-python==4.9.0.80
 matplotlib==3.8.l4
 seaborn==0.13.2
 
-#Natural Language Proplcessing & Speech
-SpeechRecognition==3.10.4
-C:\Users\User1\Innovators\requirements.txt
+Natural Language Processing & Speech
+SpeechRecognition==3.10.0
+PyAudio==0.2.13  # May require specific installation steps depending on OS
+
+Notebook Environment
+jupyter==1.0.0
+notebook==6.5.4
