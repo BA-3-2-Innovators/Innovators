@@ -1,0 +1,42 @@
+{
+  "model_performance": {
+    "accuracy": 0.9453125,
+    "precision": 0.92,
+    "recall": 0.7582417582417582,
+    "f1_score": 0.8313253012048193
+  },
+  "dataset_info": {
+    "total_samples": 2556,
+    "depression_cases": 455,
+    "depression_rate": 17.80125195618153,
+    "features_used": [
+      "Gender",
+      "Age",
+      "City",
+      "Working Professional or Student",
+      "Profession",
+      "Academic Pressure",
+      "Work Pressure",
+      "CGPA",
+      "Study Satisfaction",
+      "Job Satisfaction",
+      "Sleep Duration",
+      "Dietary Habits",
+      "Degree",
+      "Have you ever had suicidal thoughts ?",
+      "Work/Study Hours",
+      "Financial Stress",
+      "Family History of Mental Illness",
+      "Total_Pressure",
+      "Satisfaction_Score",
+      "High_Stress",
+      "Normalized_Sleep",
+      "Wellness_Score"
+    ]
+  },
+  "business_impact": {
+    "potential_savings": 2275000,
+    "risk_reduction": "15-25%",
+    "implementation_timeline": "3-6 months"
+  }
+}
